@@ -105,8 +105,8 @@ function App() {
                 <div class="logo-h" >
                   <img src="images/banner-logo.png" />
                 </div>
-                <h1 >Your Web3 Cloud Storage<br />
-                  for personal use</h1>
+                <h1 >Your personal<br />
+                  Web3 cloud</h1>
                 <h2>Start owning your data today.</h2>
                 <a href="https://crustfiles.io" class="btn-h">Try it for free</a>
               </div>
@@ -123,7 +123,7 @@ function App() {
               <div class="Storage">
                 <div class="nodes">
                   <h2>{userAmount}</h2>
-                  <p>Crust Files users</p>
+                  <p>Total users</p>
                 </div>
               </div>
             </div>
@@ -241,7 +241,7 @@ function App() {
                       <img src="images/a3.png" class="img-fluid" />
                     </div>
                     <h4>Security</h4>
-                    <p>Build-in client side encryption ensures that only you can access your data.</p>
+                    <p>Build-in client-side encryption ensures that only you can access your data.</p>
                   </div>
                 </div>
                 <div class="box" data-aos="fade-up" data-aos-duration="1600">
@@ -259,7 +259,7 @@ function App() {
                       <img src="images/a5.png" class="img-fluid" />
                     </div>
                     <h4>Ownership</h4>
-                    <p>Nobody else but you is in control of your data or can access your files.</p>
+                    <p>With Crust Files you are the only person that can access, control, or profit off of your files.</p>
                   </div>
                 </div>
                 <div class="box" data-aos="fade-up" data-aos-duration="2000">
@@ -322,7 +322,7 @@ function App() {
                   <div class="flip_front">
                     <img src="images/w2.png" class="img-fluid" />
                     <h5>Vault</h5>
-                    <p>100% secured and client side encrypted file storage</p>
+                    <p>100% secured and client-side encrypted file storage</p>
                   </div>
                   <div class="Flip_back">
                     <h5>VAULT</h5>
@@ -574,13 +574,13 @@ function App() {
             <div class="col-12 col-sm-12 col-md-3">
               <div class="hows" data-aos="zoom-in" data-aos-duration="1000">
                 <img src="images/Group 185.png" class="img-fluid" />
-                <p>Download and install Crust web wallet or any other of many Web3 wallet accepted by Crust Files</p>
+                <p>Change to “Download and install Crust web wallet or any of the other Web3 wallets that are accepted on crustfiles.io</p>
               </div>
             </div>
             <div class="col-12 col-sm-12 col-md-3">
               <div class="hows" data-aos="zoom-in" data-aos-duration="2000">
                 <img src="images/Group 186.png" class="img-fluid" />
-                <p>Verify crustfiles.ioand login with by connecting your wallet with the Dapp. No registration needed.</p>
+                <p>Verify crustfiles.io and login by connecting your wallet to crustfiles.io. No registration needed.</p>
               </div>
             </div>
             <div class="col-12 col-sm-12 col-md-3">
